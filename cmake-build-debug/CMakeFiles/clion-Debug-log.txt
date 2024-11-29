@@ -1,0 +1,5 @@
+"D:\Archivos de programa\JetBrains\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Archivos de programa/JetBrains/CLion 2024.1.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\cmora\CLionProjects\RetoSFML -B C:\Users\cmora\CLionProjects\RetoSFML\cmake-build-debug
+-- Found SFML 2.6.1 in C:/Users/cmora/Documents/SFML-2.6.1/lib/cmake/SFML
+-- Configuring done (1.5s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/cmora/CLionProjects/RetoSFML/cmake-build-debug
